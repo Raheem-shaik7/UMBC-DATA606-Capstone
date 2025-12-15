@@ -7,7 +7,7 @@ Under the guidance of **Dr. Chaojie (Jay) Wang)**
 **Author:** Raheem Shaik
 **GitHub Repository:** https://github.com/Raheem-shaik7/UMBC-DATA606-Capstone
 **LinkedIn:** [https://www.linkedin.com/in/raheem-shaik](https://www.linkedin.com/in/raheem-shaik)
-**Project Presentation (PPT):** 
+**Project Presentation (PPT):** https://github.com/Raheem-shaik7/UMBC-DATA606-Capstone/blob/main/docs/UMBC%20CAPSTONE%20.pptx
 
 ---
 
