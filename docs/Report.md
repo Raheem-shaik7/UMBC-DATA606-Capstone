@@ -12,6 +12,7 @@ Under the guidance of **Dr. Chaojie (Jay) Wang)**
 
 **Project Presentation (PPT):** https://github.com/Raheem-shaik7/UMBC-DATA606-Capstone/blob/main/docs/UMBC%20CAPSTONE%20.pptx
 
+**YouTube Video:** https://youtu.be/fX3p7Qm2LOM
 ---
 
 # **1. Background**
